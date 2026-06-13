@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../../Users/ameli/source/PracticasProgramacion1/SistemaExcursiones/SistemaExcursiones.csproj" Id="66e4a8a6-45ac-4365-a547-8db7f8fc38c6" />
   <Project Path="CalculadoraSimple/CalculadoraSimple.csproj" />
+  <Project Path="SistemaExcursiones/SistemaExcursiones.csproj" Id="d304d5a3-ebfa-41df-9446-713b36618e49" />
 </Solution>
